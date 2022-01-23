@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec8b9344-d7bc-44dd-a120-81097f0a0d08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/DetectCapital.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/ExcelSheetColumnNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/FIzzBuzz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/FlippingAnImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/HammingDistance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/NumberComplement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/PlusOne.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/PowerOfTwo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/ReverseString.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/ReverseWordsInAStringIII.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/SelfDividingNumbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/SingleNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/SortArrayByParity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/TransposeMatrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/TwoSum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/ValidAnagram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week1/Valid_Palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/DesignHashSet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/DistributeCandies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/FindTheDifference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/FirstUniqueCharacter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/HappyNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/ImplementTrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/IntersectionOfTwoArrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/IsomorphicStrings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/JewelsAndStones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/MostCommonWord.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/SetMismatch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/SortCharactersByFrequency.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/SubdomainVisitCount.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/UncommonWordFromTwoSentences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/UniqueMorseCodeWords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/ValidSudoku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Wallbreakers/Wallbreakers/Week2/WordPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab01-checkoff/61b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab01-checkoff/61bl.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="xvuqz9i7" />
+  </component>
+  <component name="ProjectId" id="244ZH94oFVuzIblZaZbeLYbTOQo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8b9344-d7bc-44dd-a120-81097f0a0d08" name="Default Changelist" comment="" />
+      <created>1642891728645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642891728645</updated>
+      <workItem from="1642891734446" duration="6550000" />
+      <workItem from="1642904367189" duration="17000" />
+      <workItem from="1642904542388" duration="132000" />
+      <workItem from="1642905325952" duration="1916000" />
+      <workItem from="1642912818296" duration="6803000" />
+      <workItem from="1642926425653" duration="267000" />
+      <workItem from="1642926784627" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="43" key="#Project_Structure" timestamp="1642904182342">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1642904182342" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642904084595">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1642904084595" />
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1642926389790">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1642926389790" />
+    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1642926389787">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1642926389787" />
+    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1642926389786">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1642926389786" />
+    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1642926389789">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1642926389789" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1642904338571">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1642904338571" />
+  </component>
+</project>
