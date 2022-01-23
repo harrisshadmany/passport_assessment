@@ -7,7 +7,6 @@ use crate::error::ContractError;
 use crate::msg::{OwnerResponse, ScoreResponse, ExecuteMsg, InstantiateMsg, QueryMsg};
 use crate::state::{State, STATE, SCORES};
 
-// version info for migration info
 const CONTRACT_NAME: &str = "crates.io:passport_assessment";
 const CONTRACT_VERSION: &str = env!("CARGO_PKG_VERSION");
 
